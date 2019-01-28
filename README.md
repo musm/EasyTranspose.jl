@@ -1,6 +1,6 @@
 # EasyTranspose
 
-Hacks to easily transpose arrays and vectors in Julia
+Easily transpose arrays and vectors in Julia using `ᵀ`
 
 ```julia
 using EasyTranspose

@@ -1,6 +1,6 @@
 # EasyTranspose
 
-Easily transpose arrays and vectors in Julia using `ᵀ`
+Easily transpose arrays and vectors in Julia using `ᵀ`:
 
 ```julia
 using EasyTranspose
@@ -19,6 +19,7 @@ julia> (A)ᵀ
 ```
 
 
+This is accomplished by overloading the `*` operator.
 
 
 credits: Jeffrey Sarnoff, Michael K. Borregaard

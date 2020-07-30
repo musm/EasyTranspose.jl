@@ -1,4 +1,4 @@
-# EasyTranspose
+# EasyTranspose.jl
 
 Easily transpose arrays and vectors in Julia using `ᵀ`:
 

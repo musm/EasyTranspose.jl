@@ -10,6 +10,7 @@ true
 
 
 julia> A = randn(3,5);
+
 julia> (A)ᵀ
 5×3 Array{Float64,2}:
   1.05165    -1.56987   -0.227402

@@ -4,6 +4,7 @@ Easily transpose arrays and vectors in Julia using `ᵀ`:
 
 ```julia
 using EasyTranspose
+
 julia> [1, 2, 3]ᵀ == [1 2 3]
 true
 
